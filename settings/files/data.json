@@ -1,0 +1,8 @@
+{
+  "paths_and_urls": {
+    "path_chrome_driver": "/Users/domin/Desktop/QA - cursos, apuntes/1 qa curso/chromedriver",
+    "path_save_screenshot": "/Users/domin/Desktop/Escritorio no usado/1 Programacion/python cosas/test-julio/settings/files/output/hotel_description.png",
+    "url_google": "https://www.google.es/",
+    "url_destinia": "https://www.destinia.com/"
+  }
+}

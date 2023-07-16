@@ -1,0 +1,81 @@
+
+
+16-07-2023 - 11:42:09
+API EXECUTION: 
+>>> User created successfully.
+* Status code [User creation]: 200
+* Status code [Get user data]: 200
+>>> User data received: 
+{'id': 1, 'username': 'Pepito', 'firstName': 'MR', 'lastName': 'SD', 'email': 'user@example.com', 'password': '1234', 'phone': '666666666', 'userStatus': 1}
+
+
+16-07-2023 - 11:42:34
+API EXECUTION: 
+* Status code [Get pets by status]: '200
+>>> PETS SOLD:
+[(68, 'bagworm'), (17, 'Specialcharownertesting'), (19467, '')]
+>>> Number of pets with the following names:
+{'bagworm': 1, 'Specialcharownertesting': 1, '': 1}
+
+
+16-07-2023 - 11:44:07
+API EXECUTION: 
+>>> User created successfully.
+* Status code [User creation]: 200
+* Status code [Get user data]: 200
+>>> User data received: 
+{'id': 1, 'username': 'Pepito', 'firstName': 'MR', 'lastName': 'SD', 'email': 'user@example.com', 'password': '1234', 'phone': '666666666', 'userStatus': 1}
+
+
+16-07-2023 - 11:44:48
+API EXECUTION: 
+>>> User created successfully.
+* Status code [User creation]: 200
+* Status code [Get user data]: 200
+>>> User data received: 
+{'id': 1, 'username': 'Pepito', 'firstName': 'MR', 'lastName': 'SD', 'email': 'user@example.com', 'password': '1234', 'phone': '666666666', 'userStatus': 1}
+
+
+16-07-2023 - 11:48:17
+API EXECUTION: 
+>>> User created successfully.
+* Status code [User creation]: 200
+* Status code [Get user data]: 200
+>>> User data received: 
+{'id': 1, 'username': 'Pepito', 'firstName': 'MR', 'lastName': 'SD', 'email': 'user@example.com', 'password': '1234', 'phone': '666666666', 'userStatus': 1}
+
+
+16-07-2023 - 11:51:08
+API EXECUTION: 
+* Status code [Get pets by status]: '200
+>>> PETS SOLD:
+[(68, 'bagworm'), (17, 'Specialcharownertesting'), (19467, '')]
+>>> Number of pets with the following names:
+{'bagworm': 1, 'Specialcharownertesting': 1, '': 1}
+
+
+16-07-2023 - 11:51:52
+API EXECUTION: 
+* Status code [Get pets by status]: '200
+>>> PETS SOLD:
+[(68, 'bagworm'), (17, 'Specialcharownertesting'), (19467, '')]
+>>> Number of pets with the following names:
+{'bagworm': 1, 'Specialcharownertesting': 1, '': 1}
+
+
+16-07-2023 - 11:52:55
+API EXECUTION: 
+>>> User created successfully.
+* Status code [User creation]: 200
+* Status code [Get user data]: 200
+>>> User data received: 
+{'id': 1, 'username': 'Pepito', 'firstName': 'MR', 'lastName': 'SD', 'email': 'user@example.com', 'password': '1234', 'phone': '666666666', 'userStatus': 1}
+
+
+16-07-2023 - 11:53:03
+API EXECUTION: 
+* Status code [Get pets by status]: '200
+>>> PETS SOLD:
+[(68, 'bagworm'), (17, 'Specialcharownertesting'), (19467, '')]
+>>> Number of pets with the following names:
+{'bagworm': 1, 'Specialcharownertesting': 1, '': 1}

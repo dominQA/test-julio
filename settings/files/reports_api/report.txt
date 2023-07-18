@@ -88,3 +88,12 @@ API EXECUTION:
 [(9223372036854775312, 'Brianna'), (363978995, 'executingfromtest'), (1122338454877, 'Charlie'), (15435006001660, ''), (9223372036854018112, 'Mybestdog'), (74408294, 'doggie'), (922337285746384590, 'Molly'), (777, 'Murka'), (822922, 'doggie'), (17, 'grasshopper'), (20, 'luna'), (61, 'Jaa'), (68, 'bagworm'), (19467, ''), (76342797, 'doggie'), (21994, ''), (24864, ''), (4165, ''), (898, ''), (3013, 'wlHu'), (922337203685477590, 'Barny'), (92233720368541111, 'Chappie'), (37930519, 'doggie'), (1512, 'TIB'), (20593238, 'doggie')]
 >>> Number of pets with the following names:
 {'Brianna': 1, 'executingfromtest': 1, 'Charlie': 1, '': 6, 'Mybestdog': 1, 'doggie': 5, 'Molly': 1, 'Murka': 1, 'grasshopper': 1, 'luna': 1, 'Jaa': 1, 'bagworm': 1, 'wlHu': 1, 'Barny': 1, 'Chappie': 1, 'TIB': 1}
+
+
+18-07-2023 - 19:28:20
+API EXECUTION: 
+* Status code [Get pets by status]: '200
+>>> PETS SOLD:
+[(9223372036854775312, 'Brianna'), (363978995, 'executingfromtest'), (1122338454877, 'Charlie'), (15435006001660, ''), (9223372036854018112, 'Mybestdog'), (74408294, 'doggie'), (74982713, 'ggg'), (922337285746384590, 'Molly'), (822922, 'doggie'), (17, 'grasshopper'), (61, 'Jaa'), (68, 'bagworm'), (19467, ''), (76342797, 'doggie'), (21994, ''), (24864, ''), (4165, ''), (898, ''), (3013, 'wlHu'), (922337203685477590, 'Barny'), (92233720368541111, 'Chappie'), (37930519, 'doggie'), (1512, 'TIB'), (20593238, 'doggie'), (66666, 'Bars'), (345678, '')]
+>>> Number of pets with the following names:
+{'Brianna': 1, 'executingfromtest': 1, 'Charlie': 1, '': 7, 'Mybestdog': 1, 'doggie': 5, 'ggg': 1, 'Molly': 1, 'grasshopper': 1, 'Jaa': 1, 'bagworm': 1, 'wlHu': 1, 'Barny': 1, 'Chappie': 1, 'TIB': 1, 'Bars': 1}
